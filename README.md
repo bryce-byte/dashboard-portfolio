@@ -6,7 +6,8 @@ A curated collection of data, finance, and automation dashboards built using Pyt
 
 ### Finance KPI Dashboard (Python + Streamlit)
 - Live Demo: https://finance-kpi-dashboard-qsthhxfxjezxo3te28cquy.streamlit.app/
-- Repository: https://github.com/bryce-byte/finance-kpi-dashboard
+- Repository: https://github.com/bryce-byte/Excel_VBA_KPI_Dashboard.xlsm
+
 - Highlights:
   - Budget vs Actual KPIs with deltas
   - Executive-style insights for leadership reporting
