@@ -15,7 +15,7 @@ A curated collection of data, finance, and automation dashboards built using Pyt
   - Excel and PDF export functionality
 
 ### Excel VBA KPI Dashboard
-- Repository: https://github.com/bryce-byte/excel-vba-kpi-dashboard
+- Repository: https://github.com/bryce-byte/Excel_VBA_KPI_Dashboard
 - Highlights:
   - Excel-based KPI dashboard
   - VBA automation for calculations and refresh
