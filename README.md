@@ -25,6 +25,16 @@
   - Time intelligence and trend analysis
   - Measures and data modeling
 
+### Bar Operations Automation System (Excel VBA)
+
+- Repository: https://github.com/bryce-byte/bar-automation-excel-vba
+- Highlights:
+  - Inventory tracking and variance reporting
+  - Order and delivery logging
+  - Recipe costing and margin analysis
+  - Daily closeout reporting
+  - Labor tracking
+  - Modular VBA automation
 
 
 
