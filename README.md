@@ -36,6 +36,18 @@
   - Labor tracking
   - Modular VBA automation
 
+## Film Production Dashboard (Excel VBA)
+
+**Repository:** https://github.com/bryce-byte/Film_Production_Dashboard
+
+### Highlights
+- Budget tracking by department
+- Production cost monitoring
+- Automated KPI refresh (VBA)
+- Executive-ready dashboard layout
+
+### Preview
+
 
 
 
